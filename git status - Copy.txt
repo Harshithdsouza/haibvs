@@ -1,3 +1,6 @@
+git
+
+
 git status
 
 git add <filename>  or git add .
